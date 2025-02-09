@@ -1,25 +1,33 @@
-import logo from './logo.svg';
-import './App.css';
+import { Routes, Route } from 'react-router-dom';
+ 
+
+
+//импорт компонентов
+import Basket from './components/headerBasket/basket/Basket'
+import Home from './components/homePage/Home'
+import LoginIn from './components/loginIn/LoginIn'
+
+
+//импорт стили
+import './resetStyles.scss'
+
 
 function App() {
+
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Routes>
+            <Route path='/' element={<Home/>}/>
+            <Route path='/basketPurchase' element={<Basket/>}/>
+            <Route path='/loginIn' element={<LoginIn/>}/>
+        </Routes>
+      </>
   );
 }
 
 export default App;
+
+
+

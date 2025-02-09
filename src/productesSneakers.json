@@ -1,0 +1,1281 @@
+[
+    {   
+        "id": 1,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 10820,
+        "size" : [35,45],
+        "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+        "informationImages" : {
+            "id" : 2,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 3,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 15820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 4,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 5,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 19820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 6,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 7,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 14820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 8,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 9,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 12820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 10,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 11,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 4820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 12,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 13,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 8820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 14,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 15,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 11820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 16,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 17,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 18820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 18,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 19,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 9820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 20,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 21,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 2820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 22,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 23,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 17820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 24,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 25,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 13820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 26,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 27,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 12820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 28,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 29,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 11620,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 30,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 31,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 18120,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 32,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 33,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 20120,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 34,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 35,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 16320,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 36,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 37,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 15320,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 38,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 39,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 12720,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 40,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 41,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 18120,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 42,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 43,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 14160,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 44,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 45,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 13560,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 46,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 47,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 13210,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 48,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 49,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 18340,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 50,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 51,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 17740,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 52,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 53,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 19320,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 54,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 55,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 13420,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 56,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 57,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 16710,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 58,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 59,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 19120,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 60,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 61,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 16240,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 62,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 63,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 12820,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 64,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 65,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 12110,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 66,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 67,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 11450,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 68,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 69,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 13520,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 70,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 71,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 15280,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 72,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 73,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 19870,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 74,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 75,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 17890,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 76,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 77,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 11230,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 78,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 79,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 13210,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 80,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 81,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 14560,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 82,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 83,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 16540,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 84,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 85,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 16780,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 86,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 87,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 18760,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 88,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 89,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 18900,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 90,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 91,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 10980,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 92,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 93,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 19800,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 94,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 95,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 16750,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 96,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 97,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 13420,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 98,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 99,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 12340,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 100,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    },
+    {   
+        "id": 101,
+        "title" : "Кроссовки New Balance 574",
+        "explanationOfTheName" : "Эта обувь создана для активных и энергичных людей, которые любят быть на пике событий и не боятся выделяться среди толпы.",
+        "price" : 15210,
+        "size" : [35,45],
+        "informationImages" : {
+            "id" : 102,
+            "images" : ["https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-3/wc1000/7027786143.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-b/wc1000/7027786151.jpg",
+                        "https://ir.ozone.ru/s3/multimedia-1-n/wc1000/7027786127.jpg"],
+            "colorPhotoSneakers" : ["https://ir.ozone.ru/s3/multimedia-1-v/wc1000/7027789591.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-g/wc1000/7027786156.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-e/wc1000/7027786118.jpg",
+                                    "https://ir.ozone.ru/s3/multimedia-1-f/wc1000/7027786155.jpg"]
+        },
+        "informationSneakers" : {
+            "Material" : "Textile, Faux leather",
+            "Sole material" : "Rubber",
+            "Sports purpose" : "Running",
+            "Season" : "All seasons",
+            "Clothing and footwear brand" : "Nike"
+        }
+    }
+      ]

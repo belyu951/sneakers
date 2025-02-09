@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+  }
+
+a, a:link, a:visited  {
+    text-decoration: none;
+    border-radius: 8px;
+}
+ul, ul li {
+	list-style: none;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
+    display: block;
+}
+
+a, button {
+    transition: all .2s ease-in-out;
+}
+
+:active :hover{
+    outline: 0;
+}
