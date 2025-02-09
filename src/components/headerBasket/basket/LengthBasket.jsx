@@ -5,10 +5,11 @@ import { useSelector,  } from 'react-redux';
 const LengthBasket = () => {
 
 
-    const cartItems = useSelector((state) => state.cart.items);
+    // const cartItems = useSelector((state) => state.cart.items);
+    const cartItems = useSelector((state) => state.cart.items.length);
     
     // let itemCount = cartItems.length;
-    console.log('cartItems:', cartItems);
+    console.log('cartItems:',cartItems);
     return (
         <div>
             <span> {cartItems === 0 ? '' : `товаров в корзине : ${cartItems}`} </span>

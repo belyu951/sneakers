@@ -3,9 +3,9 @@ import { Routes, Route } from 'react-router-dom';
 
 
 //импорт компонентов
-import Basket from './components/headerBasket/basket/Basket'
-import Home from './components/homePage/Home'
-import LoginIn from './components/loginIn/LoginIn'
+import Basket from './components/headerBasket/basket/Basket';
+import Home from './components/homePage/Home';
+import LoginIn from './components/loginIn/LoginIn';
 
 
 //импорт стили

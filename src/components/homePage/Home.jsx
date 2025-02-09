@@ -1,4 +1,4 @@
-import React, { useEffect , useState } from 'react';
+import React, { useEffect } from 'react';
 
 //импорт компонентов
 import Header from '../headerBasket/Header';
